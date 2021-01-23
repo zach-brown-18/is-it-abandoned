@@ -1,0 +1,6 @@
+geopandas
+arcgis
+laspy
+pandas
+numpy
+jupyter notebook
