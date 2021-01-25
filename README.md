@@ -1,6 +1,6 @@
 # Abandoned Building Classifier
 
-**Purpose:** Swiftly and automaticaly identify abandoned buildings.
+**Purpose:** Swiftly and automatically identify abandoned buildings.
 
 **Impact:** Minimize time and cost of finding and confirming vacant and abandoned buildings.
 
