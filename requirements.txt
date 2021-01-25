@@ -1,6 +1,14 @@
+# Strict process following geopandas docs (https://geopandas.org/install.html)
+# Install all packages through the conda-forge channel to eliminate dependency errors
+
+# conda create -n geo_env
+# conda activate geo_env
+# conda config --env --add channels conda-forge
+# conda config --env --set channel_priority strict
+# conda install python=3 geopandas
+
 geopandas
-arcgis
 laspy
-pandas
-numpy
-jupyter notebook
+descartes
+matplotlib
+jupyterlab
