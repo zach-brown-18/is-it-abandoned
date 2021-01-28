@@ -12,3 +12,8 @@ laspy
 descartes
 matplotlib
 jupyterlab
+pandas
+numpy
+scikit-learn
+scikit-image
+pillow
