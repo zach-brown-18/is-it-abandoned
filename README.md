@@ -29,6 +29,7 @@ Vacant or abandoned buildings
 ![Vacant shapes](./media/Abandoned_properties.png)
 
 2. LiDAR Satelite basemap
+    * These data files are too large to upload to GitHub, and so have been removed from this repo. You may find this data at the link below.
     * [Link to dataset](https://lidar.jinha.org/download.php?cname=marion&clon=-86.13305839196093&clat=39.779844384833936&years=2011,2016)
     * [Link to metadata](https://www.dropbox.com/sh/ft35dwy9m5qe9f1/AACXW_W_DoWDiHeOUh00tAzja/2016%20Marion%20County?dl=0&subfolder_nav_tracking=1)
     
